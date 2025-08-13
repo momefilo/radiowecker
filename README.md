@@ -1,4 +1,4 @@
-/** Die Uhr
+Die Uhr
  * display spi_bus spi_1
  * display cs/csn GP_9
  * display reset GP_8
@@ -19,4 +19,3 @@
  * BUTTON_L GP_14
  * BUTTON_R GP_15
  * PIN_RADIO_ON GP20 für Verstärker-Spannung Ein/Aus
- * */
