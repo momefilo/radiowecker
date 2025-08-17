@@ -25,3 +25,6 @@
  * si4703 SCL GP_17 / for zero GP_27
  * si4703 RES GP_18 / for zero GP_28
  * si4703 GP2 GP_19 / for zero GP_29
+
+**Bugs**\
+Keine umlaute im RDS-Text
